@@ -1,14 +1,4 @@
----
-# Fill in the fields below to create a basic custom agent for your repository.
-# The Copilot CLI can be used for local testing: https://gh.io/customagents/cli
-# To make this agent available, merge this file into the default repository branch.
-# For format details, see: https://gh.io/customagents/config
 
-name: Martingale EA Agent
-description: develop Martingale EA for MT4 and MT5 platform.
----
-
-# My Agent
 設計一個馬丁策略的 MQL4 EA程式, 用於 MT4 平台。
 要求如下:
 part 1) 變數(input variable)要求

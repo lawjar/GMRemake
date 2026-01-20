@@ -51,5 +51,5 @@ Virtual Lots
 Trend Determination (AI?)
 Position protection Hedging
 Parameter tuning automation (AI?) Buy/Sell only, Entry Distances, Lot size, TP/SL
-UI Enhancement
+UI Enhancement (手動pause Buy/Sell, 手動保本/止盈, 手動skip層)
 Manual trading assistance
